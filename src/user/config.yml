@@ -23,6 +23,7 @@ logs:
 presence:
   activities:
     - name: "🎫 play.hydexmc.net"
+    - name: "🎫 play.hydexmc.net"
   interval: 20
   status: online
 stats: true
